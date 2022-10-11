@@ -25,7 +25,7 @@ SECRET_KEY = 'x&qafzf#l^xslv#p-xg*=x)aj#!0gfna@xy4%0c@6x=riywaf&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','alwinanima.herokuapp.com/']
 
 LOGIN_URL = "/accounts/login/"
 LOGIN_REDIRECT_URL = "/"
