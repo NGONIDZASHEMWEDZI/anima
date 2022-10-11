@@ -1,1 +1,1 @@
-web: gunicorn farm.wsgi --log-file -
+web: gunicorn dep:app
